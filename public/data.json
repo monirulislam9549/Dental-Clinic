@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "ENGINE DIAGNOSTIC",
+        "price": "4000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/Np5cFxK/dentist-discussing-with-laying-patient-showing-image-his-teeth-screen.jpg"
+    },
+    {
+        "id": 2,
+        "name": "ENGINE DIAGNOSTIC",
+        "price": "4500",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/G7yDCY6/male-dentist-medical-mask-explaining-artificial-teeth-smiling-patient-clinic.jpg"
+    },
+    {
+        "id": 3,
+        "name": "ENGINE DIAGNOSTIC",
+        "price": "12000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/ynzZSjP/young-man-with-patient-bib-dental-chair-dentist-who-sits-him-he-looks-his-teeth-using-dental-microsc.jpg"
+    },
+    {
+        "id": 4,
+        "name": "ENGINE DIAGNOSTIC",
+        "price": "10000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/LR4zDqM/dentists-treat-patients-teeth.jpg"
+    },
+    {
+        "id": 5,
+        "name": "ENGINE DIAGNOSTIC",
+        "price": "3000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/5nFZVwp/beautiful-girl-sitting-dentist-s-office.jpg"
+    },
+    {
+        "id": 6,
+        "name": "ENGINE DIAGNOSTIC",
+        "price": "6000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/CVRHkCf/dentist-making-professional-teeth-cleaning-withb-cotton-female-young-patient-dental-office.jpg"
+    }
+]
