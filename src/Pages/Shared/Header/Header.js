@@ -11,9 +11,10 @@ const Header = () => {
                     <Navbar.Brand as={Link} to="/"><img src={logo} alt="" /></Navbar.Brand>
                     <Nav className="me-auto">
                         <Nav.Link href="#home">Home</Nav.Link>
-
+                        <Nav.Link href="home#services">Services</Nav.Link>
                         <Nav.Link as={Link} to="about">About</Nav.Link>
                         <Nav.Link as={Link} to="login">Login</Nav.Link>
+
                     </Nav>
                 </Container>
             </Navbar>
