@@ -1,44 +1,44 @@
 [
     {
         "id": 1,
-        "name": "ENGINE DIAGNOSTIC",
+        "name": "Cosmetic dentistry",
         "price": "4000",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "description": "Cosmetic dentistry services are increasing in popularity and, as a result, provide a great opportunity for dental practices to grow their customer base. One of the most common cosmetic dentistry procedures is teeth whitening or “teeth bleaching” which is sought by people looking to brighten their smile and reduce the appearance of stains or discoloration.",
         "img": "https://i.ibb.co/Np5cFxK/dentist-discussing-with-laying-patient-showing-image-his-teeth-screen.jpg"
     },
     {
         "id": 2,
-        "name": "ENGINE DIAGNOSTIC",
+        "name": "Endodontic procedures",
         "price": "4500",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "description": "Endodontic procedures refer to painless root canal therapy. Typically, when the interior of a patient's tooth becomes infected, damaged, or diseased, general dentists will refer them to an endodontist.",
         "img": "https://i.ibb.co/G7yDCY6/male-dentist-medical-mask-explaining-artificial-teeth-smiling-patient-clinic.jpg"
     },
     {
         "id": 3,
-        "name": "ENGINE DIAGNOSTIC",
+        "name": "Pediatric dental ",
         "price": "12000",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "description": "The dental equivalent of pediatricians, pediatric dentists have specialized skill sets tailored toward caring for the oral health of children. They help provide specialized care for infants through teens.",
         "img": "https://i.ibb.co/ynzZSjP/young-man-with-patient-bib-dental-chair-dentist-who-sits-him-he-looks-his-teeth-using-dental-microsc.jpg"
     },
     {
         "id": 4,
-        "name": "ENGINE DIAGNOSTIC",
+        "name": "Periodontal treatments",
         "price": "10000",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "description": "Another valuable type of dental service to offer at your practice is periodontal treatments. Such services include preventing, diagnosing, and treating diseases and conditions that impact the teeth's supporting structures.",
         "img": "https://i.ibb.co/LR4zDqM/dentists-treat-patients-teeth.jpg"
     },
     {
         "id": 5,
-        "name": "ENGINE DIAGNOSTIC",
+        "name": "Orthodontic",
         "price": "3000",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "description": "Orthodontic services help improve the alignment of the teeth and jaw. Patients who have an overbite, underbite, crossbite, or misaligned teeth may require or seek out orthodontic services to help correct such issues",
         "img": "https://i.ibb.co/5nFZVwp/beautiful-girl-sitting-dentist-s-office.jpg"
     },
     {
         "id": 6,
-        "name": "ENGINE DIAGNOSTIC",
+        "name": "Prosthodontic",
         "price": "6000",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "description": "Prosthodontic services regard the restoration and replacement of missing or damaged teeth. Prosthodontic specialists design, manufacture, and fit artificial replacements for missing or damaged teeth and other areas of the mouth.",
         "img": "https://i.ibb.co/CVRHkCf/dentist-making-professional-teeth-cleaning-withb-cotton-female-young-patient-dental-office.jpg"
     }
 ]
