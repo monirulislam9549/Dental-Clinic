@@ -19,7 +19,7 @@ const Banner = () => {
                     alt="First slide"
                 />
                 <Carousel.Caption>
-                    <h3>First slide label</h3>
+                    <h3>Dentist With Teeth</h3>
 
                 </Carousel.Caption>
             </Carousel.Item>
